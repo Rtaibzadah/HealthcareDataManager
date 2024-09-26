@@ -36,4 +36,18 @@ The project contains two main functionalities:
     ./management_system
     ```
 
-## Program Structure
+
+## How the Program Works
+1. **Nurse Authentication**: Nurses must log in with their ID and password. The system verifies the credentials from a stored file.
+2. **Patient Data Entry**: After login, nurses can enter new patient details such as first name, last name, date of birth, height, weight, and a comment. All data is encrypted and stored in a file.
+3. **Consultant Management**: Consultants can manage nurse records, adding, deleting, or modifying credentials.
+
+## Future Enhancements
+- Improve the encryption algorithm for more robust security.
+- Add functionality for patient record modification and deletion.
+- Implement a GUI for easier interaction.
+
+## License
+There is none :)
+
+---
