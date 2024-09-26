@@ -24,7 +24,7 @@ The project contains two main functionalities:
 ## How to Run the Program
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/PatientNurseManagementSystem.git
+    git clone https://github.com/Rtaibzadah/HealthcareDataManager.git
     cd PatientNurseManagementSystem
     ```
 2. Compile the program using GCC or any C compiler:
